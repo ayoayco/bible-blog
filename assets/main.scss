@@ -39,7 +39,7 @@ body {
 }
 
 header.site-header {
-    background: rgba(141, 191, 66, .97)!important;
+    background: #B309A6!important;
     width: 100%;
 }
 
@@ -48,7 +48,7 @@ footer.site-footer {
 }
 
 .footer-site-title a {
-    color: rgba(141, 191, 66, .97)!important;
+    color: #B309A6!important;
     text-transform: uppercase;
     font-weight: bold;
 }
@@ -198,7 +198,7 @@ caption {
     }
     
     span.categories-title {
-        color: rgba(141, 191, 66, .97);
+        color: #B309A6;
         text-transform: uppercase;
         font-size: 36px;
         font-weight: bold;
@@ -222,7 +222,7 @@ caption {
 }
 
 .jumbotron {
-    background-color: rgba(141, 191, 66, .97)!important;
+    background-color: #B309A6!important;
     /*
     background-image:  url('/assets/background/people_devices.jpg');
     background-repeat: no-repeat;
@@ -235,7 +235,7 @@ caption {
 }
 
 .after-post #mc_embed_signup label {
-    color: rgba(141, 191, 66, 0.97) !important;
+    color: #B309A6 !important;
 }
 
 .after-post,
@@ -285,12 +285,12 @@ caption {
     border-bottom: 0 inset transparent;
     border-left: 8px inset transparent;
     border-right: 8px inset transparent;
-    border-top: 8px solid #8dbf42;
+    border-top: 8px solid #B309A6;
 
 }
 
 #donate-form {
-    background-color: #80ae3c !important;
+    background-color: rgba(179, 9, 165, 0.651) !important;
     height: 50px;
     padding: 30px 0 15px;
 }
@@ -443,7 +443,7 @@ nav#side-nav {
     }
 
 .side-panel {
-    background-color: rgba(141, 191, 66, 0.97) !important;
+    background-color: #B309A6 !important;
     color: white;
     font-size: normal;
     padding: 0 15px;
@@ -491,7 +491,7 @@ nav#side-nav {
     }
 
     .jumbotron {
-        background: rgba(141, 191, 66, .97)!important;
+        background: #B309A6!important;
         width: 100%;
     }
     #mc_embed_signup input {
@@ -524,11 +524,11 @@ nav#side-nav {
         margin: 0 0 25px 25px;
     }
     .jumbotron {
-        background: rgba(141, 191, 66, .97)!important;
+        background: #B309A6!important;
         width: 100%;
         box-shadow: 5px 25px 30px -25px rgba(34, 34, 34, 0.25);
     }
-    .jumbotron-content {
+    jumbotron-content {
         padding: 30px 0;
     }
     .post-list li h3 a,
@@ -551,7 +551,7 @@ nav#side-nav {
         width: 100%;
     }
     .site-nav {
-        background-color: rgba(141, 191, 66, .97)!important;
+        background-color: #B309A6!important;
         border: 1px solid hsla(0, 0%, 100%, .3) !important;
     }
     .site-nav .menu-icon>svg path {
@@ -571,7 +571,7 @@ nav#side-nav {
         padding: 60px 50px;
     }
     .jumbotron {
-        background: rgba(141, 191, 66, .97)!important;
+        background: #B309A6!important;
     }
 }
 

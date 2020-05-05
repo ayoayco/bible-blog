@@ -5,7 +5,7 @@
 
 layout: "home"
 type: "home"
-title: "Ayos Blog Homepage"
-description: "Ayos Blog is a place to learn new web technologies and productivity hacks."
+title: "Bible Blog Homepage"
+description: "Bible Blog is a place to learn new theology and Christian living."
 image: "hello-world"
 ---

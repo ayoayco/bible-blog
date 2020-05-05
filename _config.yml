@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Ayos Blog"
-author: Ayo
-attribution: "AyoCart Online Marketing"
+title: "Bible Blog"
+author: Admin
+attribution: "Bible Blog Group"
 attribution-url: "https://AyoAyco.com"
-bugreport_url: "https://github.com/fullhacker/blog/issues/new"
+bugreport_url: "https://github.com/ayoayco/bible-blog/issues/new"
 google_analytics: 'UA-113797180-1'
 website: blog.ayoayco.com
-email: ramon.aycojr+blog@gmail.com
+email: ramon.aycojr+bible-blog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    // notes on technology and life
+    // Theology and Christian Living
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.ayoayco.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ayoayco
@@ -44,7 +44,7 @@ defaults:
     type: "posts"
   values:
     layout: post
-    author: Ayo
+    author: Admin
     type: "post"
     excerpt_separator: <!--more-->
 
@@ -52,7 +52,7 @@ defaults:
 navigation:
 - text: Home
   url: /
-- text: "About the Author"
+- text: "About the Blog"
   url: /about/
 
 # Exclude from processing.
